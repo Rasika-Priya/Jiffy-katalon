@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Calendar</name>
+   <tag></tag>
+   <elementGuidId>871825bc-adc3-4998-af53-3ec44d498a27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='bs-navbar']/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f29089ab-7d45-4d0b-8e6e-b74899ed77de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{ active: (isActive('/Calendar') &amp;&amp; CalendarActive)}</value>
+      <webElementGuid>dae86f47-64fb-4b8d-b063-0f903755d794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/Calendar</value>
+      <webElementGuid>d2121797-0979-4e09-aca5-4b01d1b1e8a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Calendar</value>
+      <webElementGuid>30b74ebf-7e96-4414-936e-ccd0e96f6290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;sample ng-scope&quot;]/section[@class=&quot;bs-docs-nav navbar navbar-static-top nomargin manage_partner bb- ng-scope&quot;]/div[@class=&quot;container-fluid&quot;]/div[1]/nav[@id=&quot;bs-navbar&quot;]/ul[@class=&quot;nav navbar-nav navbar-left right_nav m-l-20 ng-scope&quot;]/li[@class=&quot;ng-scope&quot;]/a[1]</value>
+      <webElementGuid>8a12da19-c1b0-478e-ac65-6d0fbbfa2c66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='bs-navbar']/ul/li[5]/a</value>
+      <webElementGuid>1fa9fb0f-f96d-43f4-af62-d4aec268be16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Calendar')]</value>
+      <webElementGuid>eb2902d9-6fa9-4494-a61c-c1cac60fe7a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contracts'])[1]/following::a[1]</value>
+      <webElementGuid>9ddbdafa-7ec3-4ad2-bf2c-5178b9f2a9e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Positions'])[1]/following::a[2]</value>
+      <webElementGuid>c5aab2c5-8ecd-4528-b990-163f70927bf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configurators'])[1]/preceding::a[1]</value>
+      <webElementGuid>eac84348-394b-4ff8-a373-8e58e4cabd19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tracker'])[1]/preceding::a[2]</value>
+      <webElementGuid>630c014d-7ba1-4486-9c4d-ca5af9ad85ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Calendar']/parent::*</value>
+      <webElementGuid>c56737d1-2f05-4ba8-9149-82687c2c1f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/Calendar')]</value>
+      <webElementGuid>8cd19445-6c60-4f5d-b5cb-8b8da1a870d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>da8bcb26-5110-4e1e-9dde-b1c3e9ac3040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/Calendar' and (text() = 'My Calendar' or . = 'My Calendar')]</value>
+      <webElementGuid>557ae217-7108-4732-9caa-2e3ce689969b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

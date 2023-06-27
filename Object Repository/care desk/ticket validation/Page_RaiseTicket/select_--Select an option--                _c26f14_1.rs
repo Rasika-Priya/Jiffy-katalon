@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--Select an option--                _c26f14_1</name>
+   <tag></tag>
+   <elementGuidId>c63565d2-7d43-4202-be79-eec15be76806</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;Priority&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='Priority']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6d146fc0-6959-474c-85d9-e10d604b736a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>minimal form-control m-b-10 ng-pristine ng-untouched ng-invalid ng-invalid-required</value>
+      <webElementGuid>75a09dd9-f84b-4e0c-b7e0-a054bee11af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Priority</value>
+      <webElementGuid>0f8b1c6f-9208-4f48-9c25-fcb74cdb3f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-model</name>
+      <type>Main</type>
+      <value>vmTicket.TicketFormData.Priority</value>
+      <webElementGuid>89b0f5aa-c761-40ec-9ffa-9e006438f4d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>(vmTicket.TicketFormData.StatusName &amp;&amp; vmTicket.TicketFormData.StatusName != 'New' &amp;&amp; !vmTicket.isAdd) || loggedUserType === 'Partner'</value>
+      <webElementGuid>ec46b36b-435b-4bcc-b3da-cf2377e7e928</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                --Select an option--
+                                                CriticalHighNormal
+                                            </value>
+      <webElementGuid>e2abe48a-dcb2-4c2b-9ef9-91e205b85ca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vmTicket.RaiseTicketForm&quot;)/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;row m-t-15 m-l-10&quot;]/div[@class=&quot;col-md-8 bg-white br5px m-l-0 br-gray&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-12 m-t-10 nopadding ng-scope&quot;]/div[@class=&quot;col-xs-12&quot;]/select[@class=&quot;minimal form-control m-b-10 ng-pristine ng-untouched ng-invalid ng-invalid-required&quot;]</value>
+      <webElementGuid>198a0549-9930-47dc-83c2-eef3e6f7151a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='Priority']</value>
+      <webElementGuid>03082006-8e92-45f5-a547-cc6d9b362157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='vmTicket.RaiseTicketForm']/div/div/div/div[2]/div[2]/div/select</value>
+      <webElementGuid>5c9ac119-9ea9-40d4-8d85-8f5c2eacf01c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::select[1]</value>
+      <webElementGuid>0f8347d3-e454-4dd9-b4dc-d863af136450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::select[1]</value>
+      <webElementGuid>7ce9af56-0b59-4d18-a6be-a8b7bde5ac6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/select</value>
+      <webElementGuid>d0cbf117-584b-47b9-9659-991d121bd19c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'Priority' and (text() = '
+                                                --Select an option--
+                                                CriticalHighNormal
+                                            ' or . = '
+                                                --Select an option--
+                                                CriticalHighNormal
+                                            ')]</value>
+      <webElementGuid>5117444d-05ba-4f01-8397-40982a109db1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

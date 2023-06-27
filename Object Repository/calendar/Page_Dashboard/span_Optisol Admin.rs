@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Optisol Admin</name>
+   <tag></tag>
+   <elementGuidId>9d6c21c0-a883-4aeb-bf23-e711ec09b542</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='bs-navbar']/ul[2]/li[3]/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4eb27549-e24f-4ef6-9351-ae53c1882a82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>5662f827-19d0-48b1-acb0-bd37ee0da76a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Optisol Admin</value>
+      <webElementGuid>e1163087-d7b9-4bba-b457-d35ec290710c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;sample ng-scope&quot;]/section[@class=&quot;bs-docs-nav navbar navbar-static-top nomargin manage_partner bb- ng-scope&quot;]/div[@class=&quot;container-fluid&quot;]/div[1]/nav[@id=&quot;bs-navbar&quot;]/ul[@class=&quot;nav navbar-nav navbar-right right_nav drop-right-btn&quot;]/li[@class=&quot;head_user&quot;]/a[@class=&quot;dropdown-toggle nopadding profile&quot;]/div[@class=&quot;name_user&quot;]/span[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>69695c42-54ff-4d4d-89e2-e5573c2dc8ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='bs-navbar']/ul[2]/li[3]/a/div/span</value>
+      <webElementGuid>e8b6e78d-f37b-4ded-8584-a7556f6fe60c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources'])[1]/following::span[1]</value>
+      <webElementGuid>da600173-3054-4d59-8a08-b41da1d3fa8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Care Desk'])[1]/following::span[1]</value>
+      <webElementGuid>78371b8e-3b06-41d3-a59c-b8551835e7be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partners'])[1]/preceding::span[1]</value>
+      <webElementGuid>fb97469a-ab9d-4b8e-a1e4-5a50c6f788f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Participants'])[1]/preceding::span[1]</value>
+      <webElementGuid>1c8cd6f8-235a-4f01-922d-ca433cd79329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Optisol Admin']/parent::*</value>
+      <webElementGuid>3fe0ab38-da14-48ac-909f-1d637ed0f0b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/span</value>
+      <webElementGuid>a2f3a829-ba75-4e22-bcc1-6c22f797b6fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Optisol Admin' or . = 'Optisol Admin')]</value>
+      <webElementGuid>5910cad7-5a5e-4e02-99d1-c732e69bb62e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

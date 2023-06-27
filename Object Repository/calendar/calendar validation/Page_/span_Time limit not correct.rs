@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Time limit not correct</name>
+   <tag></tag>
+   <elementGuidId>5f9a3098-99e6-4f24-84e3-b5a98411d804</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.errormsg.rbg_back.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='vmSlot.addSlotForm']/div[3]/div[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>60df6592-edc5-4a01-8dcb-fd31d3ac3b50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>errormsg rbg_back ng-scope</value>
+      <webElementGuid>fa26bdff-517c-4f89-8dbe-fd1f387e8cbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>vmSlot.IsTimeLimitNotValid</value>
+      <webElementGuid>b469257b-bb19-4ccd-8aec-0ec8a5987175</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Time limit not correct</value>
+      <webElementGuid>e248e76b-a410-481a-86d6-d4342ae31448</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vmSlot.addSlotForm&quot;)/div[@class=&quot;col-xs-12 m-t-15&quot;]/div[@class=&quot;col-md-12 p-l-0&quot;]/span[@class=&quot;errormsg rbg_back ng-scope&quot;]</value>
+      <webElementGuid>14223d57-af99-42de-ab72-8b8f52d665e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='vmSlot.addSlotForm']/div[3]/div[4]/span</value>
+      <webElementGuid>7a449a6c-24a0-46cf-b796-b30835e63d0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To'])[1]/following::span[3]</value>
+      <webElementGuid>3f085d73-f759-49e5-a0d0-246c8805b3fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::span[5]</value>
+      <webElementGuid>ca77423b-4767-4f7f-999c-7d57d9147b41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::span[1]</value>
+      <webElementGuid>11cc421a-7b0e-49ed-b668-8c421c09ff95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[1]</value>
+      <webElementGuid>c7f4aadf-50bb-477c-9c30-a9e2780746ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Time limit not correct']/parent::*</value>
+      <webElementGuid>65b7cabe-7488-44f7-9e01-417fa0e863cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span</value>
+      <webElementGuid>21e18404-3d6b-4908-a743-9d61e9dd065c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Time limit not correct' or . = 'Time limit not correct')]</value>
+      <webElementGuid>f402a142-4b68-41b7-9353-48bc9285bd92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

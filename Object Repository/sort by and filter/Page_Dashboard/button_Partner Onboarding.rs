@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Partner Onboarding</name>
+   <tag></tag>
+   <elementGuidId>fdcd93f1-6e3d-412a-a143-453143cdc7d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='dropdownMenuButton'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown.admin_select.d-inline-block.m-r-10 > #dropdownMenuButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9be33f66-783a-461a-aecd-99dd44a32424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary dropdown-toggle ng-binding ng-scope</value>
+      <webElementGuid>fc2a4321-a89e-4f9c-8871-705c8aafa8dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>84c79f86-6c81-4781-b7bf-003a8a5c1134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>vmDashboard.Onboardingvalue</value>
+      <webElementGuid>b0772c08-9f10-4c2c-bf3d-452dbce14ae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dropdownMenuButton</value>
+      <webElementGuid>d0c9b737-eaac-4c43-9966-47449a89aaca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>bc14b196-1f73-4f75-bd31-642b4bdd5351</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>86642bce-f750-48ee-9cc9-31364485872d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>d5f520cf-f66f-4dc5-9a6d-934c798e3ab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Partner Onboarding 
+                            </value>
+      <webElementGuid>d6a1f6d2-1583-4e78-96dc-e8f8ab3453c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;margin-top-value margin ng-scope&quot;]/section[@class=&quot;manage_partner lato_font common_content ng-scope&quot;]/div[@class=&quot;container-fluid m-b-20&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;row ng-scope&quot;]/div[@class=&quot;col-md-5 col-lg-5 text-right m-t-30&quot;]/div[@class=&quot;dropdown admin_select d-inline-block m-r-10&quot;]/button[@id=&quot;dropdownMenuButton&quot;]</value>
+      <webElementGuid>eb05abc2-d6c1-4674-9a6e-cc239259e8da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='dropdownMenuButton'])[2]</value>
+      <webElementGuid>57c1c7b3-cc70-4505-9951-3e7ff53a0d17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oldest To Latest'])[2]/following::button[1]</value>
+      <webElementGuid>1419ce04-a84b-42d4-878b-ba963887778d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latest To Oldest'])[1]/following::button[1]</value>
+      <webElementGuid>26b655cf-920a-4a55-a6d3-6fe9038ebbe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PartnerOnboarding'])[1]/preceding::button[1]</value>
+      <webElementGuid>4e9c1580-43d0-4657-8b72-6a429f7942e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ParticipantOnboarding'])[1]/preceding::button[1]</value>
+      <webElementGuid>63fcc235-80c9-479a-b4c8-2c17e36bc7aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>ffe2bf7d-72f0-4b9d-b15a-b2ee302e77e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'dropdownMenuButton' and (text() = '
+                                Partner Onboarding 
+                            ' or . = '
+                                Partner Onboarding 
+                            ')]</value>
+      <webElementGuid>8f584b9f-bd6d-433a-9aae-644c8d478045</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

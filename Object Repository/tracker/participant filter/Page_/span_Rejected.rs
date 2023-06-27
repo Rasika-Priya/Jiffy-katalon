@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rejected</name>
+   <tag></tag>
+   <elementGuidId>0ebfcc12-4c0f-47ae-b15a-7c81fd039cea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Returned'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a3febeb3-a0a6-4157-80e4-ebb047f95a34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>status-message lato_font ng-binding</value>
+      <webElementGuid>4806e2a4-b289-4196-835b-cbea5be1964f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rejected</value>
+      <webElementGuid>13721d7b-812f-4f8f-b4f7-91de7baf1887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;margin-top-value margin ng-scope&quot;]/section[@class=&quot;m-t-20 ng-scope&quot;]/div[@class=&quot;manage_partner ng-scope&quot;]/div[@class=&quot;container-fluid full_bg nopadding&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;participant_grid_checklist&quot;]/div[@class=&quot;ng-scope col-md-7&quot;]/div[@class=&quot;showingresult text-align-right&quot;]/div[@class=&quot;r_checklist&quot;]/label[@class=&quot;ng-scope&quot;]/span[@class=&quot;status-message lato_font ng-binding&quot;]</value>
+      <webElementGuid>c7a02736-07f7-40fd-bf4f-b0aeb7d41a1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Returned'])[1]/following::span[1]</value>
+      <webElementGuid>88f9030b-bb44-4aa1-bc04-0959e6ff0525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Approval'])[1]/following::span[2]</value>
+      <webElementGuid>b54a3adb-62bf-4ad5-b171-2eb6480f3d0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/preceding::span[1]</value>
+      <webElementGuid>646b2de9-81de-478f-8a09-21c8b68ac36f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived'])[1]/preceding::span[2]</value>
+      <webElementGuid>5c3f1c1e-a7ac-4080-b7db-e2ed5b8c263d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rejected']/parent::*</value>
+      <webElementGuid>32a79229-87d6-46ec-a37b-2f4b85baeb0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[4]/span</value>
+      <webElementGuid>2257e970-4040-421e-8e20-33c3ab375378</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rejected' or . = 'Rejected')]</value>
+      <webElementGuid>9c91458b-3d06-4454-a8c0-3031323115cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

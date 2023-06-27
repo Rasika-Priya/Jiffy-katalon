@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--Select an option--                _6eeeee</name>
+   <tag></tag>
+   <elementGuidId>b4fa85cc-bbb6-4f19-a619-19c9cd387595</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;TimePerSlot&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='TimePerSlot']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>47b30a25-a128-4d01-a47e-8bc64784a555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>minimal form-control ng-pristine ng-untouched ng-invalid ng-invalid-required</value>
+      <webElementGuid>a9ed1c39-e6e5-47d2-8012-3a1920b9804d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>TimePerSlot</value>
+      <webElementGuid>5734efaa-0e3e-4e9b-ab16-ad738480fb20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-model</name>
+      <type>Main</type>
+      <value>vmSlot.addSlotData.TimePerSlot</value>
+      <webElementGuid>73917af7-dd45-4a42-9b0f-93e68827ac05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>vmSlot.fnTimeValidation()</value>
+      <webElementGuid>9dc810e4-9abd-4bb6-8188-06b36b9ecccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    --Select an option--
+                                    15
+                                    30
+                                    45
+                                    60
+                                    75
+                                    90
+                                </value>
+      <webElementGuid>4df6ea7f-5aed-4668-8cf6-3fc2390e9e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vmSlot.addSlotForm&quot;)/div[@class=&quot;col-xs-12  m-t-15&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-6&quot;]/select[@class=&quot;minimal form-control ng-pristine ng-untouched ng-invalid ng-invalid-required&quot;]</value>
+      <webElementGuid>4300b8ef-eca6-4365-997d-53c8594b7cc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='TimePerSlot']</value>
+      <webElementGuid>0db7cece-e4c6-4590-8f73-da93019fece3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='vmSlot.addSlotForm']/div[2]/div/div[2]/select</value>
+      <webElementGuid>198e0593-a552-49fa-adcf-730f1c577aa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>76666e99-2348-41df-973d-dc59e7a650da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::select[1]</value>
+      <webElementGuid>80c95c5f-63cb-4009-bdcd-8a6b2c2b9207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>55e91f54-3685-4bc1-90ca-cad46c8dc264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'TimePerSlot' and (text() = '
+                                    --Select an option--
+                                    15
+                                    30
+                                    45
+                                    60
+                                    75
+                                    90
+                                ' or . = '
+                                    --Select an option--
+                                    15
+                                    30
+                                    45
+                                    60
+                                    75
+                                    90
+                                ')]</value>
+      <webElementGuid>dbbd848f-2e37-4113-b954-d81f9901d850</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

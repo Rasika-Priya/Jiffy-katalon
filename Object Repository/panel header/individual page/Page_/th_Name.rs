@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Name</name>
+   <tag></tag>
+   <elementGuidId>ce1d48f8-8681-40f6-b474-629a1f63c8a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Self-Funded'])[1]/following::th[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th.part-header-color</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>5fea11e0-d110-4f20-8da4-2c48ed7cfecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>part-header-color</value>
+      <webElementGuid>055f9ccc-f9a6-431e-bc6c-79153a68dc8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Name</value>
+      <webElementGuid>1656182e-50cf-4556-99f6-c53a54958e3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;margin-top-value margin ng-scope&quot;]/section[@class=&quot;m-t-20 ng-scope&quot;]/div[@class=&quot;manage_partner ng-scope&quot;]/div[@class=&quot;container-fluid full_bg nopadding&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;part-list-container ng-scope&quot;]/table[@class=&quot;table participant_table m-b-0 cursor-default&quot;]/tbody[1]/tr[1]/th[@class=&quot;part-header-color&quot;]</value>
+      <webElementGuid>5b4ad90d-d32c-4479-b9ae-65cd5becded5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Self-Funded'])[1]/following::th[2]</value>
+      <webElementGuid>9873a709-46cc-4d30-90a8-38354d823ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived'])[1]/following::th[2]</value>
+      <webElementGuid>8deb0b1d-d152-406c-930c-f48342c5b6d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/preceding::th[1]</value>
+      <webElementGuid>2e56627c-2029-42f8-9bf5-46f0c7deb2d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mail'])[1]/preceding::th[2]</value>
+      <webElementGuid>3cbce6ee-4a23-4c30-bd45-e94d2f53fee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Name']/parent::*</value>
+      <webElementGuid>19f0ec3a-db73-4395-b6a0-2766bf4f3668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]</value>
+      <webElementGuid>f37a5a85-ab81-44a7-afdb-344e8d558acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Name' or . = 'Name')]</value>
+      <webElementGuid>86cf7754-3870-42cf-82a3-e952a6a7596d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

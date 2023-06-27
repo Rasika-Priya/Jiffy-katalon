@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PartnerOnboarding</name>
+   <tag></tag>
+   <elementGuidId>64146e23-a23b-40ff-9d54-19e0687b6144</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'PartnerOnboarding')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div[name=&quot;OnboardingType&quot;] > a.dropdown-item.ng-binding.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f377b913-507c-4fd4-bcd7-e448e4cb5b99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>type in vmDashboard.OnboardingType</value>
+      <webElementGuid>b6bfe08b-c0df-422d-9a65-2b9ed22aabf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item ng-binding ng-scope</value>
+      <webElementGuid>5687ee16-7d4a-4905-be72-cf6c25a3e25d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vmDashboard.viewDashboardNotification(type.value)</value>
+      <webElementGuid>224e3a33-2d24-425c-b899-00823e3268df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    PartnerOnboarding
+                                </value>
+      <webElementGuid>4294dfef-43c3-4240-bd27-191464faebac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;margin-top-value margin ng-scope&quot;]/section[@class=&quot;manage_partner lato_font common_content ng-scope&quot;]/div[@class=&quot;container-fluid m-b-20&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;row ng-scope&quot;]/div[@class=&quot;col-md-5 col-lg-5 text-right m-t-30&quot;]/div[@class=&quot;dropdown admin_select d-inline-block m-r-10 open&quot;]/div[@class=&quot;dropdown-menu admin_select_dropdown_menu&quot;]/a[@class=&quot;dropdown-item ng-binding ng-scope&quot;]</value>
+      <webElementGuid>94450330-247f-4268-bec4-24bdabe64db8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'PartnerOnboarding')]</value>
+      <webElementGuid>0b244e7c-2338-41f1-b2bc-f2bd78114a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter By'])[1]/following::a[1]</value>
+      <webElementGuid>ba8fb78f-01d0-4dad-bdb5-94d8a9f7fdf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oldest To Latest'])[2]/following::a[1]</value>
+      <webElementGuid>06fcbb0b-4480-433e-ad03-9bc4ebdd9f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ParticipantOnboarding'])[1]/preceding::a[1]</value>
+      <webElementGuid>34a5ed79-f57a-4f9a-b214-40c77d62b195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EmployerOnboarding'])[1]/preceding::a[2]</value>
+      <webElementGuid>0cba16c8-ebcb-48d8-9fa8-a35ad60af848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PartnerOnboarding']/parent::*</value>
+      <webElementGuid>f32c44b6-eea6-47d0-8c52-45ed3d7f0740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>6b0320bb-67f4-40c9-8932-758ff7e0bbf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '
+                                    PartnerOnboarding
+                                ' or . = '
+                                    PartnerOnboarding
+                                ')]</value>
+      <webElementGuid>26a93400-5aa5-441d-a85f-ca8c522f8513</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

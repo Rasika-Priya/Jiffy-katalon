@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_In Progress</name>
+   <tag></tag>
+   <elementGuidId>97b7eef4-80d4-4413-9657-2dc1f238a58f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'In Progress')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.custotex.activecustotex.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>be25046f-ffd0-43d9-a5e3-dfe24acc51c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>eb050855-c1d3-4f9d-90f1-6a26551e63cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>vmPartner.IsInProgressRecords</value>
+      <webElementGuid>a3bf8635-c5d6-4296-b8f8-edb383a68a70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custotex activecustotex ng-scope</value>
+      <webElementGuid>a0155c94-3891-46ba-8250-67a30ba1343b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'opacityzero':vmPartner.isFilteredRecords}</value>
+      <webElementGuid>fd05124c-bc84-4481-b537-b790e4c5d67d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>In Progress</value>
+      <webElementGuid>f553e9e1-5d4a-4950-b7c8-ec3b55696b6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;margin-top-value margin ng-scope&quot;]/section[@class=&quot;m-t-20 ng-scope&quot;]/div[@class=&quot;manage_partner ng-scope&quot;]/div[@class=&quot;container-fluid full_bg nopadding&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;participant_grid_checklist m-b-10&quot;]/div[@class=&quot;showingresult&quot;]/div[@class=&quot;ng-scope&quot;]/ul[1]/li[@class=&quot;posrel&quot;]/a[@class=&quot;custotex activecustotex ng-scope&quot;]</value>
+      <webElementGuid>0319c9b7-3b5a-4242-aa7c-630126e94550</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'In Progress')]</value>
+      <webElementGuid>c329228a-fb59-409f-b1cc-2ebcd54aaef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::a[1]</value>
+      <webElementGuid>ed3d52e7-63de-4e16-832e-2f8228975c5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='In Progress']/parent::*</value>
+      <webElementGuid>491c7061-b7d5-4a00-978d-93a1a524fba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[3]</value>
+      <webElementGuid>b65b386f-4718-4cfc-8bee-136271f95168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li/a</value>
+      <webElementGuid>3b677b33-364e-44d8-b58e-273aa9ea712a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = 'In Progress' or . = 'In Progress')]</value>
+      <webElementGuid>fb4190c1-ba2a-471d-b624-0332c2bff837</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

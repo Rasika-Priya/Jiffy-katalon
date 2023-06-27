@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Email sent Successfully</name>
+   <tag></tag>
+   <elementGuidId>0f15e1c2-1a89-4dc5-8ce7-7f062fae60df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='forgotForm']/div/div/div[3]/div/div/div/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f1001be1-c938-41c5-9499-f022c57b48cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>5cfb5cd9-0847-43d0-9bdd-a57283ff736d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email sent Successfully!</value>
+      <webElementGuid>a8ee866e-0789-4bac-9509-890c4521dd70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;forgotForm&quot;)/div[@class=&quot;login_form col-xs-12&quot;]/div[@class=&quot;col-sm-10 col-sm-offset-2 col-xs-12 full_login&quot;]/div[@class=&quot;login_right col-sm-6 col-xs-12&quot;]/div[1]/div[@class=&quot;whole_alert signup&quot;]/div[@class=&quot;success_msg&quot;]/div[@class=&quot;alert  alert-dismissible alertIn alertOut forsuccess_alert alert-success&quot;]/span[1]/span[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>727ae488-224c-427d-aea1-bd0919c8c404</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='forgotForm']/div/div/div[3]/div/div/div/div/span/span</value>
+      <webElementGuid>073a68b6-7f33-420e-8172-517bc5342b3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::span[3]</value>
+      <webElementGuid>4569fcc2-3123-42cd-8966-f79f80d4c473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remembered?'])[1]/preceding::span[5]</value>
+      <webElementGuid>6e663f89-57ff-4c4c-9ef6-20eb67899020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email sent Successfully!']/parent::*</value>
+      <webElementGuid>af5c45ea-e7fd-47d9-b69f-6a4717809674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>c6a7244c-9600-48e5-b2ec-03ba5bd8c78e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Email sent Successfully!' or . = 'Email sent Successfully!')]</value>
+      <webElementGuid>0d459818-6a62-4d77-8602-3000f55178f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

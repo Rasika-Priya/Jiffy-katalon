@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_UnArchive</name>
+   <tag></tag>
+   <elementGuidId>df1bed08-fdb8-45e1-b12b-ebeecfedf4c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-view.m-t-b-0.cursor-pointer.ng-binding.ng-scope.warningbg.warningbg-orange.mw-auto</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='John Partner'])[2]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d0e1fe26-3ea7-42de-96e7-f8085b5f1dc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-view m-t-b-0 cursor-pointer ng-binding ng-scope warningbg warningbg-orange mw-auto</value>
+      <webElementGuid>fa667e80-21d1-4872-98d7-10a58878f45f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value> participant.Status == 'Deleted'</value>
+      <webElementGuid>3a2ad9a3-2a68-4b5b-b9c1-965545ebca4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vmParticipant.openUnarchiveParticipantPopup(participant.UserId)</value>
+      <webElementGuid>d576d9bd-62a5-4396-8629-2354bc4e61b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'warningbg warningbg-orange mw-auto':(participant.ActionRequired == 'UnArchive')}</value>
+      <webElementGuid>e2bac4c8-1f9b-4de0-9796-3d522d1d98b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UnArchive</value>
+      <webElementGuid>983ff903-ee41-404f-be7e-1f7c550c33e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;margin-top-value margin ng-scope&quot;]/section[@class=&quot;m-t-20 ng-scope&quot;]/div[@class=&quot;manage_partner ng-scope&quot;]/div[@class=&quot;container-fluid full_bg nopadding&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;part-list-container ng-scope&quot;]/table[@class=&quot;table participant_table m-b-0 cursor-default&quot;]/tbody[1]/tr[@class=&quot;part-list-pending-content ng-scope&quot;]/td[@class=&quot;text-left mgw-20 p-b-0 p-l-0&quot;]/div[@class=&quot;custombtncenter&quot;]/div[1]/div[@class=&quot;ng-scope&quot;]/button[@class=&quot;btn btn-view m-t-b-0 cursor-pointer ng-binding ng-scope warningbg warningbg-orange mw-auto&quot;]</value>
+      <webElementGuid>eff5a425-51b3-4c67-9358-9146da24f326</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='John Partner'])[2]/following::button[1]</value>
+      <webElementGuid>5ed0a1be-0d8b-4c65-9846-b2a7a8f7e6b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='james1@yopmail.com'])[1]/following::button[1]</value>
+      <webElementGuid>8d2d8439-241e-4251-93f8-6540c39c184d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The profile is deleted'])[1]/preceding::button[1]</value>
+      <webElementGuid>c0ff4308-aed8-4ea0-8cce-66268618c23b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delvin'])[1]/preceding::button[1]</value>
+      <webElementGuid>4c9fc2cc-9618-4703-9cc7-1d0481cceb00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>3b1521d2-fe01-4983-ad9a-f1605d1dd688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'UnArchive' or . = 'UnArchive')]</value>
+      <webElementGuid>6c0c8ec4-a2df-4ae6-95ea-4aa7e0e8ad24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

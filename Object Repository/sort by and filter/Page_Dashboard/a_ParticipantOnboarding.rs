@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ParticipantOnboarding</name>
+   <tag></tag>
+   <elementGuidId>c47bde09-e345-4139-8a93-bcc1aa11ee9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'ParticipantOnboarding')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c96b5b60-c509-4562-a7f3-83587de6d2ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>type in vmDashboard.OnboardingType</value>
+      <webElementGuid>999d76be-7134-44f2-82f4-1a5e615b34c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item ng-binding ng-scope</value>
+      <webElementGuid>6f9d910e-343d-4826-a7b6-f2418e71d8d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vmDashboard.viewDashboardNotification(type.value)</value>
+      <webElementGuid>51d1e562-95dc-46a2-a3a4-a4bbf7b5060e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    ParticipantOnboarding
+                                </value>
+      <webElementGuid>a4329cae-a322-4943-b778-8ae137177368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;margin-top-value margin ng-scope&quot;]/section[@class=&quot;manage_partner lato_font common_content ng-scope&quot;]/div[@class=&quot;container-fluid m-b-20&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;row ng-scope&quot;]/div[@class=&quot;col-md-5 col-lg-5 text-right m-t-30&quot;]/div[@class=&quot;dropdown admin_select d-inline-block m-r-10 open&quot;]/div[@class=&quot;dropdown-menu admin_select_dropdown_menu&quot;]/a[@class=&quot;dropdown-item ng-binding ng-scope&quot;]</value>
+      <webElementGuid>23d8dd2d-e8ab-4835-aac9-6a35e8f3f1f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ParticipantOnboarding')]</value>
+      <webElementGuid>30988a7d-433e-423e-8368-bae4012ceafb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PartnerOnboarding'])[1]/following::a[1]</value>
+      <webElementGuid>29656b51-3829-4dc5-837e-4ef3162877cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partner Onboarding'])[2]/following::a[2]</value>
+      <webElementGuid>966e31ad-27cc-4ffd-8a3a-8a47913546b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EmployerOnboarding'])[1]/preceding::a[1]</value>
+      <webElementGuid>77dea65d-4a65-428c-b8aa-6c95846e16a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Placement'])[2]/preceding::a[2]</value>
+      <webElementGuid>a8806558-0932-4a12-bb8b-916bbce1e4f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ParticipantOnboarding']/parent::*</value>
+      <webElementGuid>460bcb29-bc11-46b3-9583-311f778f90f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[2]</value>
+      <webElementGuid>0e0c8613-04cd-459d-b738-baefdc4ae39e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '
+                                    ParticipantOnboarding
+                                ' or . = '
+                                    ParticipantOnboarding
+                                ')]</value>
+      <webElementGuid>446234aa-4224-46c2-af91-08fb0b06dc8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

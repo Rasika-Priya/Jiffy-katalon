@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Tue</name>
+   <tag></tag>
+   <elementGuidId>44026772-f1c6-4b27-bea6-3bc1a80d7bea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='June 2023'])[1]/following::b[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>62137b78-eab3-4cde-be7c-3bbd3c8fc4b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>8f854b03-242f-4f76-b065-9f6331292281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tue</value>
+      <webElementGuid>26e58611-6290-4f84-962b-07e4f26381ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;margin-top-value margin ng-scope&quot;]/section[@class=&quot;manage_partner lato_font common_content ng-scope&quot;]/div[@class=&quot;container-fluid m-b-20&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;col-md-3 m-t-30 upcoming-calendar-slots cursor-pointer jobs_div&quot;]/div[@class=&quot;m-cal m-t-0&quot;]/ul[@class=&quot;calendar-ul&quot;]/li[@class=&quot;caledar-dash-li ng-scope&quot;]/a[@class=&quot;ng-binding c-date bg-color-date&quot;]/b[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>257a030e-5794-4651-8ad1-1d1afaf49b2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='June 2023'])[1]/following::b[1]</value>
+      <webElementGuid>0c6d798d-7cb6-4fb2-83bf-32928cd9f3a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wed'])[1]/preceding::b[1]</value>
+      <webElementGuid>23b1b752-8785-4f99-8773-e8caacf46a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thu'])[1]/preceding::b[2]</value>
+      <webElementGuid>7afb7f17-183b-47b0-83ac-f8ff1134a26c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tue']/parent::*</value>
+      <webElementGuid>69e24522-c7dd-4a2c-ae2b-c8a4c16805b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>45fb0c14-02d5-4a33-bb30-887ddb1e1281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Tue' or . = 'Tue')]</value>
+      <webElementGuid>a1344d3f-9ff9-4beb-9cbd-5021d02dba3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

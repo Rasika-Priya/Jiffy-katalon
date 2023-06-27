@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_This field is required</name>
+   <tag></tag>
+   <elementGuidId>2c827ca7-1f4f-4b65-abf7-322040467a40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-6.col-md-6.col-sm-12.nopadding.m-t-10.m-b-0 > div.col-xs-12 > span.ng-scope > span.errormsg.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='vmTicket.RaiseTicketForm']/div/div/div/div[3]/div/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>01c578bc-4283-48a4-8429-7b3c0f14c423</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>errormsg ng-scope</value>
+      <webElementGuid>37e6bc24-0200-4c52-bb25-4eb9a0b7ffc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>vmTicket.RaiseTicketForm.Description.$error.required</value>
+      <webElementGuid>0f23a35e-7d44-465c-9a5b-5ecd9d14abd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This field is required</value>
+      <webElementGuid>104bf3b4-a7ce-43f8-9020-d515b2d4d7bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vmTicket.RaiseTicketForm&quot;)/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;row m-t-15 m-l-10&quot;]/div[@class=&quot;col-md-8 bg-white br5px m-l-0 br-gray&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-12 nopadding m-t-10 m-b-0&quot;]/div[@class=&quot;col-xs-12&quot;]/span[@class=&quot;ng-scope&quot;]/span[@class=&quot;errormsg ng-scope&quot;]</value>
+      <webElementGuid>5355abca-4cc8-4b68-af7f-d5d0202d3934</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='vmTicket.RaiseTicketForm']/div/div/div/div[3]/div/div/span/span</value>
+      <webElementGuid>b3f180c4-a966-41f1-8140-a24c9ff67bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::span[2]</value>
+      <webElementGuid>15a7cfc6-5618-4e64-958a-4b58171a346c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/preceding::span[1]</value>
+      <webElementGuid>9d3bd507-ff4e-4cf3-a5d4-69350f680e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/span/span</value>
+      <webElementGuid>f2bdd196-ac9f-4bfb-a4c7-925c283326d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'This field is required' or . = 'This field is required')]</value>
+      <webElementGuid>7d6f1c7c-b20c-48c6-90f2-6a91d589a441</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

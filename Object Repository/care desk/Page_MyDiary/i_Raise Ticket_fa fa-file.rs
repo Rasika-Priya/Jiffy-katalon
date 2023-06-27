@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Raise Ticket_fa fa-file</name>
+   <tag></tag>
+   <elementGuidId>774e2fca-05e7-4c8e-b4cf-6b1ef89fd1b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-file</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b053d480-dad1-4148-bde0-b5962e7a646d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-file</value>
+      <webElementGuid>1300d36b-64e0-4cda-ac82-275b24243679</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;margin-top-value margin ng-scope&quot;]/div[@class=&quot;m-t-20 container-fluid p-l-0 ng-scope&quot;]/div[@class=&quot;m-t-20 container-fluid&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;searchgridsection care_desk&quot;]/div[@class=&quot;cd_head_right col-lg-4 p-r-0&quot;]/a[@class=&quot;custom-create ctt pull-right ng-scope&quot;]/i[@class=&quot;fa fa-file&quot;]</value>
+      <webElementGuid>4a491345-a55e-4732-8c67-6ec8ec32bcee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/i</value>
+      <webElementGuid>7b177372-51bb-4824-9a46-769ffd4f9b93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

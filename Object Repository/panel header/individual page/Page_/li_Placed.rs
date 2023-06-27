@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Placed</name>
+   <tag></tag>
+   <elementGuidId>63f0fb53-c4ff-4c02-ad2a-352742af7f5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='(21)'])[1]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.pointer.ng-scope.participant-list-active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>ee0ff0f0-86c7-4c1e-a234-7050449ef197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer ng-scope participant-list-active</value>
+      <webElementGuid>51349e94-a8e0-4b8d-abd0-928d6c39f8e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'participant-list-status_active': vmParticipant.IsPlacedRecords, 'participant-list-active': !vmParticipant.IsPlacedRecords}</value>
+      <webElementGuid>2ebd86bc-b17d-4fc0-9308-2aec38a9f20c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vmParticipant.getAllParticipant('Placed')</value>
+      <webElementGuid>251b93fb-3529-492b-a610-f5e3b9bec7c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>isAdmin || isPartner</value>
+      <webElementGuid>66f5ef7b-a552-46d9-bec2-f710962541cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Placed 
+                                    </value>
+      <webElementGuid>7835591c-bb4a-4ece-a849-1170949cd019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;margin-top-value margin ng-scope&quot;]/section[@class=&quot;m-t-20 ng-scope&quot;]/div[@class=&quot;manage_partner ng-scope&quot;]/div[@class=&quot;container-fluid full_bg nopadding&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;participant_grid_checklist&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;showingresult-new&quot;]/ul[@class=&quot;participant-list-status&quot;]/li[@class=&quot;pointer ng-scope participant-list-active&quot;]</value>
+      <webElementGuid>444260ce-4f6f-4e05-8619-48a5c807affa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(21)'])[1]/following::li[1]</value>
+      <webElementGuid>7f8b863e-0622-418b-bb8f-99de4d9325ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vinolin'])[1]/preceding::li[1]</value>
+      <webElementGuid>2b73f074-b5f3-481a-907a-e689082c5f1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INT20230046,'])[1]/preceding::li[1]</value>
+      <webElementGuid>862b7d84-5a39-44d6-8113-43f2ab13a2af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Placed']/parent::*</value>
+      <webElementGuid>8a5ce5f0-dfe4-411f-9d39-34d800329e16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[3]</value>
+      <webElementGuid>53a03a7f-f6f9-40d7-9a54-0c72e10a97e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+                                        Placed 
+                                    ' or . = '
+                                        Placed 
+                                    ')]</value>
+      <webElementGuid>51268fa3-1ec6-48f9-93b3-808bfd60cb87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

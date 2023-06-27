@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--Select an option--                _c26f14</name>
+   <tag></tag>
+   <elementGuidId>b33641aa-3134-4eb1-a581-df5bdf03895d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;Severity&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='Severity']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2eef7ed8-0856-486b-9f14-cdc69565abe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>minimal form-control m-b-10 ng-pristine ng-untouched ng-invalid ng-invalid-required</value>
+      <webElementGuid>2a92429e-f730-4c5f-be5a-7d5e3b60fe53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Severity</value>
+      <webElementGuid>cbfbf5cf-cd91-4f6a-8d93-2c471d56e82e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-model</name>
+      <type>Main</type>
+      <value>vmTicket.TicketFormData.Severity</value>
+      <webElementGuid>bcaa6a63-dbb1-41d2-9a2c-84671a4a172f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>(vmTicket.TicketFormData.StatusName &amp;&amp; vmTicket.TicketFormData.StatusName != 'New' &amp;&amp; !vmTicket.isAdd) || loggedUserType === 'Partner'</value>
+      <webElementGuid>90d27f24-94ce-4705-8229-9447c3aa4ca8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                --Select an option--
+                                                CriticalHighNormal
+                                            </value>
+      <webElementGuid>c77e9cce-1c24-4bc1-a278-840c332f8e7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vmTicket.RaiseTicketForm&quot;)/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;row m-t-15 m-l-10&quot;]/div[@class=&quot;col-md-8 bg-white br5px m-l-0 br-gray&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-12 m-t-10 nopadding ng-scope&quot;]/div[@class=&quot;col-xs-12&quot;]/select[@class=&quot;minimal form-control m-b-10 ng-pristine ng-untouched ng-invalid ng-invalid-required&quot;]</value>
+      <webElementGuid>473c8743-51ae-4cd1-bc04-a8f8864d7823</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='Severity']</value>
+      <webElementGuid>1c3b0d95-53cd-4b16-a402-45c1912a2452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='vmTicket.RaiseTicketForm']/div/div/div/div[2]/div/div/select</value>
+      <webElementGuid>3aaca002-24fd-45fa-a521-dd4e6f9e6e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[1]</value>
+      <webElementGuid>d9f03265-e159-4a95-a27b-d5e0b79b7b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/preceding::select[1]</value>
+      <webElementGuid>7c974c85-da72-46d2-9557-b2cf57d9dfc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/select</value>
+      <webElementGuid>54e59db3-40fd-4d8e-a240-b8229ee25253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'Severity' and (text() = '
+                                                --Select an option--
+                                                CriticalHighNormal
+                                            ' or . = '
+                                                --Select an option--
+                                                CriticalHighNormal
+                                            ')]</value>
+      <webElementGuid>7fada872-9710-4ada-b0c8-c5ab1b72a122</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

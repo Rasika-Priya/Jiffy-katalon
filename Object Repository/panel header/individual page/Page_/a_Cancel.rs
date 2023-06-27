@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cancel</name>
+   <tag></tag>
+   <elementGuidId>fc375ac1-ed50-48c1-aeee-875dfd7947a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Staff'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.custom-del.ctt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>487fcc64-2349-4595-bbc6-8812b1c196a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/Staff</value>
+      <webElementGuid>0afafc54-088c-463c-a73c-b7e28a1a022a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-del ctt</value>
+      <webElementGuid>35796823-1ba1-4eea-83a1-78e595dfe65b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                 Cancel
+                            </value>
+      <webElementGuid>3d465329-6ff3-4a02-9051-3c520fdb9d61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;margin-top-value margin ng-scope&quot;]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid full_bg nopadding ng-scope&quot;]/div[@class=&quot;col-sm-8 col-xs-12 col-sm-offset-2 m-t-45&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 text-right&quot;]/span[@class=&quot;m-r-20&quot;]/div[1]/a[@class=&quot;custom-del ctt&quot;]</value>
+      <webElementGuid>9901b8ae-5352-4e2d-97a8-befe71a91626</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Staff'])[1]/following::a[1]</value>
+      <webElementGuid>eabfacb3-dead-4bac-8572-29d4d8a22342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Settings'])[1]/following::a[1]</value>
+      <webElementGuid>90b46de6-038a-44fe-899a-1ef238238a9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send activation link'])[1]/preceding::a[1]</value>
+      <webElementGuid>dc2ab80e-9dff-413a-9839-c5821d1f0fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Staff Details'])[1]/preceding::a[2]</value>
+      <webElementGuid>ff33226d-2629-4afc-a918-cea5353a0c06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cancel']/parent::*</value>
+      <webElementGuid>cdf6f4d5-0e33-456b-a3b6-7b6bb3ed2157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#/Staff')])[2]</value>
+      <webElementGuid>f8817807-fb6b-4731-b211-d298290a1999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/a</value>
+      <webElementGuid>d47e38fd-766f-4b2d-b69b-9b12fa13aa7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/Staff' and (text() = '
+                                 Cancel
+                            ' or . = '
+                                 Cancel
+                            ')]</value>
+      <webElementGuid>83592291-fecf-4c50-80e0-20eb8f0d03e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_James</name>
+   <tag></tag>
+   <elementGuidId>9a7d2091-b7e6-42e0-b007-cb9c172d03d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.part-content-color.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c4c8ff6d-f100-4db2-8dd9-d449d49c5729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>James</value>
+      <webElementGuid>f4f7f777-4648-4ccb-b985-47b8c21f7442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>part-content-color ng-binding</value>
+      <webElementGuid>9c6bb2c0-69c8-4fb8-95f5-b579ec977f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>James</value>
+      <webElementGuid>10068b58-1c4e-493e-b6f4-e1826a4eac1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;margin-top-value margin ng-scope&quot;]/section[@class=&quot;m-t-20 ng-scope&quot;]/div[@class=&quot;manage_partner ng-scope&quot;]/div[@class=&quot;container-fluid full_bg nopadding&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;part-list-container ng-scope&quot;]/table[@class=&quot;table participant_table m-b-0 cursor-default&quot;]/tbody[1]/tr[@class=&quot;part-list-pending-content ng-scope&quot;]/td[@class=&quot;p-b-0 mgw-10 p-l-0&quot;]/div[@class=&quot;part-list-headerdata-name d-flex&quot;]/div[2]/table[@class=&quot;pname_list&quot;]/tbody[1]/tr[1]/td[@class=&quot;ellipsis&quot;]/div[@class=&quot;d-flex&quot;]/span[@class=&quot;part-content-color ng-binding&quot;]</value>
+      <webElementGuid>22658257-66b2-47a0-bac3-09b27e87669c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::span[1]</value>
+      <webElementGuid>9469addc-a6c8-47de-8f86-35820d9d667f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action Required'])[1]/following::span[1]</value>
+      <webElementGuid>3008b8a8-07b8-4dfa-8811-60a6603f3d55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='asdasda,India'])[1]/preceding::span[1]</value>
+      <webElementGuid>c6fc3213-9093-4a6c-aa33-619e77595421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='james1@yopmail.com'])[1]/preceding::span[2]</value>
+      <webElementGuid>ca528d54-47d0-49ae-80c7-d648f85b56f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='James']/parent::*</value>
+      <webElementGuid>171f1858-1b8f-41b2-8533-b8f2e144bfab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/span</value>
+      <webElementGuid>1df7d8ae-d4b7-403e-ac65-e906b28d4feb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'James' and (text() = 'James' or . = 'James')]</value>
+      <webElementGuid>d07ceeb3-b737-4ecb-9386-cca7a1f2e6f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em__fa fa-calendar</name>
+   <tag></tag>
+   <elementGuidId>bece4c50-c797-4a10-9a09-fe168a9c5576</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>em.fa.fa-calendar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='vmSlot.addSlotForm']/div[2]/div/div/div/div/button/em</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>4246c33d-8d8b-4d81-95aa-ebd4fcc01e4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-calendar</value>
+      <webElementGuid>e1846da0-d859-4db6-a7fd-237a94aecbe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ba3a7026-fb5e-4e49-862d-96fa6fae4edd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vmSlot.addSlotForm&quot;)/div[@class=&quot;col-xs-12  m-t-15&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-6 custom_date&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-append&quot;]/button[@class=&quot;btn btn-default&quot;]/em[@class=&quot;fa fa-calendar&quot;]</value>
+      <webElementGuid>a34d49fd-5600-463c-a28c-0606f4c84eea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='vmSlot.addSlotForm']/div[2]/div/div/div/div/button/em</value>
+      <webElementGuid>5b46a852-66d4-466a-bf30-bc5516c4e056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//em</value>
+      <webElementGuid>f7ee13c6-9218-4d68-aa76-be87a4600f01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

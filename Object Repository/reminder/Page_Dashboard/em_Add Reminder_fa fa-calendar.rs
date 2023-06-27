@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_Add Reminder_fa fa-calendar</name>
+   <tag></tag>
+   <elementGuidId>f8f10f7f-477c-457b-9b83-8be992e91308</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='vmDashboard.addReminderForm']/div[2]/span/button/em</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>em.fa.fa-calendar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>a947ebe9-ecee-4d72-b537-9fa6f78a48e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-calendar</value>
+      <webElementGuid>1d44da3c-0585-4990-8c25-b1686756b531</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>64beb10c-0859-4d4b-801d-bc02a27a083a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vmDashboard.addReminderForm&quot;)/div[@class=&quot;col-xs-12 m-t-15 nopadding&quot;]/span[@class=&quot;input-group-btn scope-calen-icon&quot;]/button[@class=&quot;btn btn-default&quot;]/em[@class=&quot;fa fa-calendar&quot;]</value>
+      <webElementGuid>5e01a23c-4168-47b5-9b0c-5a261f8c46d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='vmDashboard.addReminderForm']/div[2]/span/button/em</value>
+      <webElementGuid>77d44507-e73c-4488-9519-a8d5d60189c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/em</value>
+      <webElementGuid>c72a0419-ced1-488e-82ca-ccae0106d0e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

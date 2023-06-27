@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Add new slot_fa fa-plus</name>
+   <tag></tag>
+   <elementGuidId>d05137c0-316e-49ea-bbe1-905d08ad4b0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[3]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>66289ecc-c760-4f9e-946a-8a0891a713f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus</value>
+      <webElementGuid>8265d3f4-fb2f-4610-81d0-8b58e835ebdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6c62a299-e049-4a57-932e-ca4c2329e872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;margin-top-value margin ng-scope&quot;]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;manage_partner&quot;]/div[@class=&quot;container-fluid full_bg nopadding&quot;]/div[@class=&quot;col-md-12 col-sm-12 dashboard cal_view p-b-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-3 col-md-3 col-sm-12&quot;]/div[@class=&quot;customm-r&quot;]/ul[@class=&quot;filter-choose flexinline&quot;]/li[3]/a[@class=&quot;ctt custom-create ctt&quot;]/i[@class=&quot;fa fa-plus&quot;]</value>
+      <webElementGuid>7fdaaa6c-bd2f-47b7-b686-8235fb0bfd5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/i</value>
+      <webElementGuid>7646f782-d333-4886-a05a-a29d446b2964</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

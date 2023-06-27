@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Add Slot</name>
+   <tag></tag>
+   <elementGuidId>39ed23dc-e7bc-426b-a3e0-20acd8529321</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#myModalLabel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4[@id='myModalLabel']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>578a1570-f45d-4e08-a4b5-53b97767067e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-title</value>
+      <webElementGuid>2b0155d5-19e9-44ce-a4a2-44c664a85b67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>myModalLabel</value>
+      <webElementGuid>53291fc1-eac5-4b12-bf88-82a4bf4a3b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Slot</value>
+      <webElementGuid>3115ba7a-0cec-4178-8555-58a5d0124021</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myModalLabel&quot;)</value>
+      <webElementGuid>a9423423-b0cd-4e93-adbf-098ab6e5e0f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h4[@id='myModalLabel']</value>
+      <webElementGuid>7d17ea9f-dba8-4c21-8301-d2307471bdfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'myModalLabel', '&quot;', ')')])[1]/following::h4[1]</value>
+      <webElementGuid>d89592d3-e1c9-410b-824d-70fc28986d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe to our mailing list'])[1]/following::h4[1]</value>
+      <webElementGuid>890a05ca-4f0d-44be-afa4-9b97e24cb9c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sponsor Interview - Zoom'])[1]/preceding::h4[1]</value>
+      <webElementGuid>4c14eb55-d533-4ea9-9e82-55ce12940f62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Slot']/parent::*</value>
+      <webElementGuid>13ce1945-f455-4463-9cde-67fff97cdfb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/h4</value>
+      <webElementGuid>861285ef-c0af-456c-a4b7-c98d2f849c35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[@id = 'myModalLabel' and (text() = 'Add Slot' or . = 'Add Slot')]</value>
+      <webElementGuid>3e8076d8-8f37-40ca-8072-c5dc1d872e0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

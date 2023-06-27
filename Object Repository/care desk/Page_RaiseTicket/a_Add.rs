@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add</name>
+   <tag></tag>
+   <elementGuidId>c7ab2c23-b028-4296-8f42-02693c437571</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@name='Yes']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[name=&quot;Yes&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c6556c68-e399-4cf6-b0a6-323d4d8c5b90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-create ctt ng-scope</value>
+      <webElementGuid>49f7690d-d070-42a9-a6f6-9e1574f2117e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>!vmTicket.ShowEdit &amp;&amp; !vmTicket.SaveTicketLoading &amp;&amp; (isAdmin || loggedUserType === 'Participant') &amp;&amp; vmTicket.TicketFormData.StatusName != 'Resolved' &amp;&amp; vmTicket.TicketFormData.StatusName != 'InProgress' &amp;&amp; !vmTicket.isEdit &amp;&amp; !vmTicket.IsView &amp;&amp; !vmTicket.IsResolve</value>
+      <webElementGuid>ac66fd9b-8570-4499-8e28-ff0873c26f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vmTicket.SaveRaiseTicket(vmTicket.RaiseTicketForm.$valid, vmTicket.RaiseTicketForm)</value>
+      <webElementGuid>628beea6-6bf2-4402-bddd-1ad484d9a30c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>b4843027-3a1b-437c-abe1-0debe88566ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add</value>
+      <webElementGuid>895e7a6c-f983-4823-89b2-343d3ef07183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vmTicket.RaiseTicketForm&quot;)/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;row m-t-15 m-l-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8&quot;]/div[@class=&quot;col-lg-6 col-sm-12 col-md-6 nopadding m-b-15 m-t-15 text-right&quot;]/a[@class=&quot;custom-create ctt ng-scope&quot;]</value>
+      <webElementGuid>611a8515-28e5-4221-877a-8d7991970561</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@name='Yes']</value>
+      <webElementGuid>9fe77832-f9cf-4a38-93ff-ea63238a96d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='vmTicket.RaiseTicketForm']/div/div/div[3]/div/div[2]/a</value>
+      <webElementGuid>990b45f7-0304-4851-bcf7-0a8d5e883a14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add')]</value>
+      <webElementGuid>8f829dea-d9e5-44ea-8abd-78aa750931d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload'])[1]/following::a[1]</value>
+      <webElementGuid>0c1e29af-4564-4cff-9cc8-e6398a097620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attachment'])[1]/following::a[2]</value>
+      <webElementGuid>d1aa077d-c763-479c-b548-accd990a2e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::a[1]</value>
+      <webElementGuid>56c1f776-4050-4c98-8021-cbc4a70167c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='oneworlddemo@yopmail.com'])[1]/preceding::a[2]</value>
+      <webElementGuid>99ba14c2-0ce8-4c44-9a12-f2768ac5113b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/a</value>
+      <webElementGuid>1258b2d8-0276-4e1f-9bdc-11e73b99ceb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@name = 'Yes' and (text() = ' Add' or . = ' Add')]</value>
+      <webElementGuid>6a9608e2-e091-49ea-aec7-a3df2d8e9caa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
